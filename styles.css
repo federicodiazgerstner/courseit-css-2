@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(241, 241, 241);
+}
+
+header {
+    width: 35vw;
+    min-width: 400px;
+}
+.container  {
+    background-color: white;
+    padding: 40px;
+    width: 35vw;
+    min-width: 400px;
+}
+
+p {
+    font-size: 20px;
+    opacity: 0.95;
+}
+
+.grey-text {
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+.data {
+    display: flex;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.name-data {
+    margin-left: 20px;
+}
