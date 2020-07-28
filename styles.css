@@ -38,3 +38,11 @@ img {
 .name-data {
     margin-left: 20px;
 }
+
+footer {
+    width: 35vw;
+    margin-top: 20px;
+}
+footer p{
+    font-size: 16px;
+}
